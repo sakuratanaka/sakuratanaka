@@ -1,2 +1,6 @@
-function imgchange3(){document.getElementryById('logo').scr='./image/joukoma.jpg';}
-function imgchange4(){document.getElementryById('logo').scr='./image/josailogo.jpg';}
+function imgchange3() {
+    document.getElementById('logo').src = './image/jousaikyara.jpg';
+}
+function imgchange4() {
+    document.getElementById('logo').src = './image/josailogo.jpg';
+}
